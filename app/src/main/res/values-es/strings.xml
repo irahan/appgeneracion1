@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Que generacion eres</string>
+    <string name="how_old">Cuantos años tienes?</string>
+    <string name="age">Tu Edad</string>
+    <string name="calcular">Calcular</string>
+    <string name="GenZ">Perteneces a la generación: Gen Z</string>
+</resources>
